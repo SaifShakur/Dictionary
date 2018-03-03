@@ -1,3 +1,4 @@
+# Dictionary
 This project replicates the "map" associative container in C++.
 Elements stored in the container hold two values, a key value and item value.
 The elements are sorted in a Binary Search Tree using the key values.
